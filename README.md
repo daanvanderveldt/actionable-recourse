@@ -5,7 +5,7 @@
 
 *Recourse* is the ability of a person to change the prediction of a machine learning model by altering *actionable* input variables – e.g., `income` and `n_credit_cards` as opposed to `age` or `alma_mater`.
 
-Recourse is an essential aspect of procedural fairness in consumer-facing applications of machine learning. When a consumer is denied a loan by a machine learning model, for example, they should be able to change the input variables of the model in a way that guarantees approval. Otherwise, this person will be denied the loan so long as the model is deployed, and stripped of the ability to influence a decision that affects their livelihood. 
+Recourse is an essential aspect of procedural fairness in consumer-facing applications of machine learning. When a consumer is denied a loan by a machine learning model, for example, they should be able to change the input variables of the model in a way that guarantees approval. Otherwise, this person will be denied the loan so long as the model is deployed, and stripped of the ability to influence a decision that affects their livelihood..
 
 ## Verification & Reporting
 
